@@ -12,7 +12,7 @@ and study of interval data and imprecise probability distributions.
 Install
 -------
 
-Install the latest version of NetworkX::
+Install the latest version of impstats::
 
     $ pip install impstats
 
@@ -23,8 +23,6 @@ Install with all optional dependencies::
 
 Simple example
 --------------
-
-Find the shortest path between two nodes in an undirected graph:
 
 ```python
 >>> from impstats.dists import normal
