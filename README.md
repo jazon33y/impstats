@@ -37,7 +37,7 @@ Bugs
 ----
 
 Please report any bugs that you find [here](https://github.com/impstats/impstats/issues).
-Or, even better, fork the repository on [GitHub](https://github.com/impstats/impstats>)
+Or, even better, fork the repository on [GitHub](https://github.com/impstats/impstats)
 and create a pull request (PR). We welcome all changes, big or small, and we
 will help you make the PR if you are new to `git`.
 
