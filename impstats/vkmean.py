@@ -1,6 +1,6 @@
 import numpy as np
-import interval
-import utils
+from impstats import interval
+from impstats import utils
 
 
 def VKmeanlo(p, q, k1, k2, k3, k4): # double p, double q, double k1, double k2, double k3, double k4)

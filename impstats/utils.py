@@ -4,8 +4,8 @@ import numpy as np
 from math import trunc
 from scipy import interpolate as interp
 import matplotlib.pyplot as plt
-import interval
-import pbox
+from impstats import interval
+from impstats import pbox
 
 
 def impplot(toplot):    

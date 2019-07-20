@@ -2,9 +2,9 @@ import warnings
 import numpy as np
 import scipy.stats as sps
 import scipy.special as spsp
-import interval
-import pbox
-import utils
+from impstats import interval
+from impstats import pbox
+from impstats import utils
 
 
 ##-- todo

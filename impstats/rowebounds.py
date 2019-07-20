@@ -1,6 +1,6 @@
 import numpy as np
 from scipy import optimize
-import interval
+from impstats import interval
 
 
 def transformedMean(B, t, posderiv, pos2ndderiv):

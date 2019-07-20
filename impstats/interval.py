@@ -1,7 +1,7 @@
 import numpy as np
 import warnings
-import utils
-import pbox
+from impstats import utils
+from impstats import pbox
 
 class Interval(object):
     """

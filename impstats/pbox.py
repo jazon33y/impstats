@@ -1,8 +1,8 @@
 import numpy as np
-import interval
-import utils
-import rowebounds
-import vkmean
+from impstats import interval
+from impstats import utils
+from impstats import rowebounds
+from impstats import vkmean
 
 
 class Pbox(object):
