@@ -14,6 +14,7 @@ Using
 Tested with:
 
 numpy==1.16.2
+
 scipy==1.2.1
 <!-- Install
 -------
