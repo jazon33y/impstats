@@ -7,7 +7,7 @@ and study of interval data and imprecise probability distributions.
 - **Website (including documentation):** None
 - **Mailing list:** None
 - **Source:** None
-- **Bug reports:** None
+- **Bug reports:** https://github.com/jazon33y/impstats/issues
 
 Using
 -------
